@@ -1,1 +1,1 @@
-# Sample-surveys---Pulse-Pressure-Estimation-with-various-methods
+This project aims to apply different sampling methods to estimate the pulse pressure of population based on a sample of patients participating in the medical exam. The report detailedly describes how the sampling methods are applied and data analysis of each sampling method.
